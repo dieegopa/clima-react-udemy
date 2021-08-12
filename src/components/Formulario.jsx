@@ -37,13 +37,11 @@ const Formulario = ({ busqueda, setBusqueda, setConsultar }) => {
 
     setCiudadesFiltrado(ciudadesFiltrado[0].cities);
 
-    console.log('aqui')
     setTimeout(() => {
       var elementos = document.querySelectorAll("select");
       M.FormSelect.init(elementos);
     }, 500);
 
-    console.log('aqui2')
 
   };
 

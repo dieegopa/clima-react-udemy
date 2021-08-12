@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Clima React App
+
+Proyecto de React - La Guía Completa: Hooks Context Redux MERN +15 Apps de Udemy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
